@@ -1,0 +1,24 @@
+MJ
+22
+0
+0
+
+enter 0 2
+const_1
+store_0
+const_5
+newarray 1
+store_1
+load_1
+const_3
+const_3
+astore
+load_1
+const_2
+load_0
+add
+aload
+const_1
+print
+exit
+return

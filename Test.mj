@@ -1,0 +1,8 @@
+program Test {
+    void main () int x; int[] arr; {
+        x = 1;
+        arr = new int[5];
+        arr[3] = 3;
+        print(arr[2+x]);
+    }
+}
